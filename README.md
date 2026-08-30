@@ -124,14 +124,14 @@ Découpage du travail recommandé : par **domaine fonctionnel** (ex. carte & don
 | Suivi des tâches | GitHub Projects |
 | Travail en direct | VS Code Live Share |
 | Points d'équipe | Discord |
-| Maquettes | Figma |
+| Design | Stitch |
 | Documentation | Notion |
 
 Liens vers les espaces de travail : *(à compléter par l'équipe dès leur création)*
-- GitHub Projects : `<lien>`
-- Discord : `<lien>`
-- Figma : `<lien>`
-- Notion : `<lien>`
+- GitHub Projects : `https://github.com/orgs/dev-dm-team/projects/1`
+- Discord : `https://discord.com/channels/1543223821949992981/1543223823246172222`
+- Stitch : `https://stitch.withgoogle.com/projects/1830679795573398770`
+- Notion : `https://app.notion.com/p/Pocket-Guide-doc-3cb7ba05fa1280ed9377edb893bc751b`
 
 ---
 
