@@ -15,8 +15,18 @@ export default defineConfig({
         theme_color: "#1B6B57",
         background_color: "#F2E8D5",
         icons: [
-          { src: "pg_logo.png", sizes: "192x192", type: "image/png" },
-          { src: "DM.png", sizes: "512x512", type: "image/png" },
+          {
+            src: "/icon-192.png",
+            sizes: "192x192",
+            type: "image/png",
+            purpose: "any",
+          },
+          {
+            src: "/icon-512.png",
+            sizes: "512x512",
+            type: "image/png",
+            purpose: "any",
+          },
         ],
       },
       workbox: {
@@ -38,4 +48,8 @@ export default defineConfig({
       },
     }),
   ],
+  preview: {
+    host: true,
+    allowedHosts: [".ngrok-free.dev", ".ngrok-free.app"],
+  },
 });
